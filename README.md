@@ -1,4 +1,4 @@
-# Petal-Power-Inventory
+# Petal-Power-Inventory - Codecademy Project
 Using Pandas to filet inventory
 
 
